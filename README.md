@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/mahima-111/mahima-111/blob/main/banner_img2.jpg" style="height:40vh;width:100vw;aspect-ratio: 16 / 9;" />
+    <img width=”200" height=”200" src="https://github.com/mahima-111/mahima-111/blob/main/banner_img2.jpg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mahima Pandey</h1>
